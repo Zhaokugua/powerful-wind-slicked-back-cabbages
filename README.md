@@ -6,5 +6,7 @@
 
 这个仓库只是为了开一个github pages来缓解一下无法直接访问原地址的问题。
 
+github pages游玩地址：[https://zhaokugua.github.io/powerful-wind-slicked-back-cabbages/](https://zhaokugua.github.io/powerful-wind-slicked-back-cabbages/)
+
 <img src="./TemplateData\screenshot.jpg" alt="截图预览" style="zoom:50%;" />
 
